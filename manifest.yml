@@ -2,4 +2,4 @@ applications:
   - name: silly-mayer
     memory: 256M
     host: silly-mayer
-    buildpack: staticfile_buildpacks
+    buildpack: staticfile_buildpack
